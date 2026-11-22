@@ -65,7 +65,7 @@ credit-card-fraud-agent/
 │
 ├── Data_Processing Notebook
 ├── Model_Training Notebook
-└── Fraud_Agents.ipynb
+└── Fraud_Agents Notebook
 ```
 
 ## 6. Installation and Setup
